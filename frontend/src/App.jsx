@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Navbar from './components/NavBar/Navbar'
 import { Route, Routes } from 'react-router-dom'
-import Home from './pages/home/Home.jsx'
+import Home from './pages/Home/Home.jsx'
 import Cart from './pages/cart/cart'
 import PlaceOrder from './pages/placeOrder/placeOrder'
 import Footer from './components/Footer/Footer'
